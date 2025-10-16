@@ -1,0 +1,42 @@
+{
+    "nav-bar":{
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "home": {
+        "title": "Hi,<br>I'm <span class=\"home__title-color\">Daniel</span><br>Daniel Developer",
+        "contact": "Contact",
+        "download": "Download CV"
+    },
+   "about": {
+    "title": "About me",
+    "i am": "I'm Daniel Santiago",
+    "description": "I'm from Colombia, a passionate young developer who loves technology, accounting, and creating meaningful digital solutions. I’m driven by resilience, discipline, and a constant desire to grow and make a positive impact.",
+    "description2": "Digital Infrastructure Technologist, Accounting Assistant, and Software Developer in training, with experience in networks, frontend, and backend development. I stand out for my analytical mindset, creativity, and ability to design innovative and efficient solutions."},
+    "skills": {
+    "title": "Skills",
+    "title2": "Technical Skills",
+    "description": "These are some of my main technical skills, reflecting my practical experience and passion for technology. I constantly strive to strengthen my knowledge in software development, networking, and digital infrastructure, with the goal of creating efficient, innovative, and high-impact solutions."
+},
+"projects": {
+    "title": "Projects",
+    "leahhsocialweb_description": "Development of an interactive personal portfolio using HTML5, CSS3, and JavaScript ES6+ with advanced visual effects. Users can customize the experience, play music, view background videos, and navigate the site smoothly from any device.",
+    "danielmusicplayer_description": "Development of a web-based music player using HTML5, CSS3, and JavaScript ES6+ with advanced controls, visual themes, lyric synchronization, and real-time audio effects. It allows users to play MP3 files, change styles, view background videos, and control the app from any device.",
+    "maisondupain_description": "Development of an advanced bakery management system in Python with detailed reports, customizable settings, and automatic backups. It includes a dashboard with real-time alerts, enhanced data validation, and export options in JSON or CSV formats. The system features performance optimizations, robust error handling, and an adaptive interface compatible with Windows, macOS, and Linux."
+},
+"contact": {
+    "title": "Contact",
+    "get-in-touch": "Get in Touch",
+    "description": "If you have an idea, a project, or simply want to connect, I’d be happy to hear from you. I’m always open to collaborating on creative, technological, or professional initiatives that create value and impact.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+},
+    "loader": {
+        "text": "Loading..."
+    }
+}

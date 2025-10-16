@@ -1,0 +1,43 @@
+{
+    "nav-bar":{
+        "home": "Inicio",
+        "about": "Acerca de",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+    "home": {
+        "title": "Hola,<br>Soy <span class=\"home__title-color\">Daniel</span><br>Desarrollador Junior",
+        "contact": "Contáctame",
+        "download": "Descargar CV"
+    },
+    "about": {
+    "title": "Acerca de mí",
+    "i am": "Soy Daniel Santiago",
+    "description": "Soy de Colombia, un joven apasionado por la tecnología, la contabilidad y el desarrollo de software. Me caracteriza la resiliencia, la disciplina y el deseo constante de superarme aprendiendo y creando soluciones con propósito.",
+    "description2": "Digital Infrastructure Technologist, Auxiliar Contable y Desarrollador de Software en formación, con experiencia en redes, desarrollo frontend y backend. Me destaco por mi pensamiento analítico, creatividad y capacidad para diseñar soluciones innovadoras y eficientes que generen impacto."
+    },
+    "skills": {
+    "title": "Habilidades",
+    "title2": "Habilidades técnicas",
+    "description": "Estas son algunas de mis principales habilidades técnicas, que reflejan mi experiencia práctica y mi pasión por la tecnología. Me esfuerzo constantemente por fortalecer mis conocimientos en desarrollo de software, redes e infraestructura digital, con el objetivo de crear soluciones eficientes, innovadoras y de alto impacto."
+     },
+    "projects": {
+    "title": "Proyectos",
+    "leahhsocialweb_description": "Desarrollo de un portafolio personal interactivo en HTML5, CSS3 y JavaScript ES6+ con efectos visuales avanzados. Los usuarios pueden personalizar la experiencia, reproducir música, ver videos de fondo y navegar por el sitio desde cualquier dispositivo de forma fluida.",
+    "danielmusicplayer_description": "Desarrollo de un reproductor de música web en HTML5, CSS3 y JavaScript ES6+ con controles avanzados, temas visuales, sincronización de letras y efectos de audio en tiempo real. Permite reproducir archivos MP3, cambiar el estilo, ver videos de fondo y controlar la aplicación desde cualquier dispositivo.",
+    "maisondupain_description": "Desarrollo de un sistema avanzado para panaderías en Python con reportes detallados, configuración personalizable y respaldos automáticos. Incluye un dashboard con alertas en tiempo real, validación mejorada de datos y exportación de informes en formatos JSON o CSV. El sistema cuenta con optimizaciones de rendimiento, manejo robusto de errores e interfaz adaptable a Windows, macOS y Linux."
+},
+    "contact": {
+    "title": "Contacto",
+    "get-in-touch": "Ponte en contacto",
+    "description": "Si tienes una idea, un proyecto o simplemente quieres conectar, estaré encantado de escucharte. Estoy siempre abierto a colaborar en iniciativas creativas, tecnológicas o profesionales que generen valor e impacto.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar mensaje"
+},
+    "loader": {
+        "text": "Iniciando..."
+    }
+}
